@@ -1,5 +1,4 @@
 import kdtree
-import numpy as np
 
 point1 = (0, 1)
 point2 = (2, 2)
